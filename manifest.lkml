@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "echocharlie-sapcortex-looker"
+  value: "echocharlie-cortex-demo"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "echocharlie-sapcortex-looker"
+  value: "echocharlie-cortex-demo-394818"
   export: override_required
 }
 
